@@ -1,1 +1,1 @@
-这是 Lihhan 的个人网站源代码。
+This is the source code of Lihan's personal website
