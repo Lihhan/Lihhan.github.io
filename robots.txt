@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://brack-wang.github.io/sitemap.xml
+Sitemap: https://Lihhan.github.io/sitemap.xml
